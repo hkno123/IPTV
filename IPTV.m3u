@@ -101,9 +101,8 @@ http://wsspremium.com:80/LSstream/Ferrari/7696
 #EXTINF:-1,TR: Bein Sports 3
 http://wsspremium.com:80/LSstream/Ferrari/7695
 
-#EXTINF:-1,TR: FOX HD
-http://mhiptv.com:8888/noval/123456/4466?checkedby:iptvcat.https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8?checkedby:iptvcat.http://mhiptv.com:8888/noval/123456/4217?checkedby:iptvcat.com
-
+#EXTINF:-1,TR: HALK TV
+http://blutv-beta.akamaized.net/halktv/halktv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" group-title="",TVNET
