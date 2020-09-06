@@ -96,6 +96,13 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VJfPqx9/Logo-bein-sports-1.png"group-title="",Bein Sports 1
 https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="Bein Sports 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/LtR159s/Logo-bein-sports-2.png"group-title="",Bein Sports 2
+https://video.twimg.com/ext_tw_video/1301849592921763840/pu/pl/1280x720/kpDv8tM9k5nMHuo6.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="Dmax TV" tvg-name="Dmax TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1ZBDnX2/512px-DMAX.png"group-title="",Dmax TV
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
 
