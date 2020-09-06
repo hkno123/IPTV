@@ -99,7 +99,7 @@ https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8?checkedby:iptvcat
 #EXTINF:-1,TR: Bein Sports 2
 http://wsspremium.com:80/LSstream/Ferrari/7696
 
-#EXTINF:-1 tvg-id="Dmax TV" tvg-name="Dmax TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VJfPqx9/Logo-bein-sports-1.png"group-title="",Dmax TV
+#EXTINF:-1 tvg-id="Dmax TV" tvg-name="Dmax TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1ZBDnX2/512px-DMAX.png"group-title="",Dmax TV
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" group-title="",TVNET
