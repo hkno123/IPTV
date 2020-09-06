@@ -101,9 +101,8 @@ http://wsspremium.com:80/LSstream/Ferrari/7696
 #EXTINF:-1,TR: Bein Sports 3
 http://wsspremium.com:80/LSstream/Ferrari/7695
 
-#EXTINF:-1,TR: HALK TV
-http://blutv-beta.akamaized.net/halktv/halktv.smil/playlist.m3u8
-
+#EXTINF:-1,TR: DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" group-title="",TVNET
 https://canli.ensonhaber.com/tr/tvnet/index.m3u8
