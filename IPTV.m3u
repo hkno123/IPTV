@@ -102,9 +102,9 @@ http://wsspremium.com:80/LSstream/Ferrari/7696
 http://mhiptv.com:8888/noval/123456/4216?checkedby:iptvcat.com
 
 
-
-#EXTINF: -1 tvg-id = "DMAX TV" tvg-name = "DMAX TV" tvg-language = "Türkçe" tvg-logo = "https://i.ibb.co/8Nwr4qt/1280px-DMAX-Logo-2016-svg.png "group-title =" ", DMAX TV
+#EXTINF: -1 tvg-id = "DMAX TV" tvg-name = "DMAX TV" tvg-language = "Türkçe" tvg-logo = "https://i.ibb.co/1ZBDnX2/512px-DMAX.png"group-title =" ", DMAX TV
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
+
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" group-title="",TVNET
 https://canli.ensonhaber.com/tr/tvnet/index.m3u8
