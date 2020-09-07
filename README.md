@@ -1,5 +1,8 @@
 # IPTV
-IPTV liste
-Türkiye'den halka açık IPTV kanallarının derlemesi.
 
-İnternet Protokolü televizyonu (IPTV), televizyon içeriğinin İnternet Protokolü (IP) ağları üzerinden teslim edilmesidir.
+halka açık IPTV kanalları
+
+hkno123.github.io/IPTV/IPTV.m3u sekmesinden indirebilirsiniz 
+
+
+
