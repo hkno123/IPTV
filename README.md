@@ -16,6 +16,6 @@ Kanal logosu yükleme sitesi => https://imgbb.com/
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
 kanal ismi yazan yerlere seçeceğiniz kanal ismi yazılacak ıptv programda gözükecek kanal ismidir
-kanal logo linki de png ve ya jpg farkmet 
+kanal logo linki de png ve ya jpg fark etmez
 örnek link => https://i.ibb.co/h94Qjzq/trt1.png
 örnek link => https://i.ibb.co/h94Qjzq/trt1.jpg
