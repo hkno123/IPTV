@@ -1,4 +1,155 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="trt.1.tr" tvg-name="TRT 1" tvg-logo="" group-title="TR: Ulusal",TRT 1
+http://tvs.gggdns.com:34500/hkno123/23071996/205
+#EXTINF:-1 tvg-id="trt.2.tr" tvg-name="TRT 2" tvg-logo="" group-title="TR: Ulusal",TRT 2
+http://tvs.gggdns.com:34500/hkno123/23071996/1323
+#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="",TRT Muzik
+https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="trt.4k.tr" tvg-name="TRT 4K" tvg-logo="" group-title="TR: Ulusal",TRT 4K
+http://tvs.gggdns.com:34500/hkno123/23071996/206
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="Fox Tv HD" tvg-logo="" group-title="TR: Ulusal",Fox Tv HD
+http://tvs.gggdns.com:34500/hkno123/23071996/114
+#EXTINF:-1 tvg-id="show.tr" tvg-name="Show Tv HD" tvg-logo="" group-title="TR: Ulusal",Show Tv HD
+http://tvs.gggdns.com:34500/hkno123/23071996/113
+#EXTINF:-1 tvg-id="kanal.d.tr" tvg-name="Kanal D HD" tvg-logo="" group-title="TR: Ulusal",Kanal D HD
+http://tvs.gggdns.com:34500/hkno123/23071996/102
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="" group-title="TR: Ulusal",ATV HD
+http://tvs.gggdns.com:34500/hkno123/23071996/91
+#EXTINF:-1 tvg-id="star.tr" tvg-name="Star Tv HD" tvg-logo="" group-title="TR: Ulusal",Star Tv HD
+http://tvs.gggdns.com:34500/hkno123/23071996/86
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve 2" tvg-logo="" group-title="TR: Ulusal",Teve 2
+http://tvs.gggdns.com:34500/hkno123/23071996/104
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8" tvg-logo="" group-title="TR: Ulusal",TV 8
+http://tvs.gggdns.com:34500/hkno123/23071996/107
+#EXTINF:-1 tvg-id="tv.8.5.tr" tvg-name="TV 8.5" tvg-logo="" group-title="TR: Ulusal",TV 8.5
+http://tvs.gggdns.com:34500/hkno123/23071996/162
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC" tvg-logo="" group-title="TR: Ulusal",TLC
+http://tvs.gggdns.com:34500/hkno123/23071996/130
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="Dmax" tvg-logo="" group-title="TR: Ulusal",Dmax
+http://tvs.gggdns.com:34500/hkno123/23071996/228
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="" group-title="TR: Ulusal",360
+http://tvs.gggdns.com:34500/hkno123/23071996/251
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="" group-title="TR: Ulusal",A2
+http://tvs.gggdns.com:34500/hkno123/23071996/1320
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="" group-title="TR: Ulusal",Kanal 7
+http://tvs.gggdns.com:34500/hkno123/23071996/2694
+#EXTINF:-1 tvg-id="beyaz.tr" tvg-name="Beyaz Tv" tvg-logo="" group-title="TR: Ulusal",Beyaz Tv
+http://tvs.gggdns.com:34500/hkno123/23071996/252
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="Halk TV" tvg-logo="" group-title="TR: Ulusal",Halk TV
+http://tvs.gggdns.com:34500/hkno123/23071996/1317
+#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="TR: Ulusal",TRT Haber
+http://tvs.gggdns.com:34500/hkno123/23071996/2693
+#EXTINF:-1 tvg-id="tele.1.tr" tvg-name="Tele 1" tvg-logo="" group-title="TR: Ulusal",Tele 1
+http://tvs.gggdns.com:34500/hkno123/23071996/1318
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT" tvg-logo="" group-title="TR: Ulusal",KRT
+http://tvs.gggdns.com:34500/hkno123/23071996/1319
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV" tvg-logo="" group-title="TR: Ulusal",NTV
+http://tvs.gggdns.com:34500/hkno123/23071996/129
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HaberTürk" tvg-logo="" group-title="TR: Ulusal",HaberTürk
+http://tvs.gggdns.com:34500/hkno123/23071996/127
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-name="Cnn Türk" tvg-logo="" group-title="TR: Ulusal",Cnn Türk
+http://tvs.gggdns.com:34500/hkno123/23071996/128
+#EXTINF:-1 tvg-id="bloomberg.ht.tr" tvg-name="Bloomberg HT" tvg-logo="" group-title="TR: Ulusal",Bloomberg HT
+http://tvs.gggdns.com:34500/hkno123/23071996/248
+#EXTINF:-1 tvg-id="a.haber.tr" tvg-name="A Haber" tvg-logo="" group-title="TR: Ulusal",A Haber
+http://tvs.gggdns.com:34500/hkno123/23071996/1321
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24" tvg-logo="" group-title="TR: Ulusal",24
+http://tvs.gggdns.com:34500/hkno123/23071996/1322
+
+
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 Kitchen" tvg-logo="" group-title="TR: Belgesel",24 Kitchen
+http://tvs.gggdns.com:34500/hkno123/23071996/146
+#EXTINF:-1 tvg-id="animal.planet.tr" tvg-name="Animal Planet" tvg-logo="" group-title="TR: Belgesel",Animal Planet
+http://tvs.gggdns.com:34500/hkno123/23071996/14
+#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="" group-title="TR: Belgesel",Animaux
+http://tvs.gggdns.com:34500/hkno123/23071996/161
+#EXTINF:-1 tvg-id="bbc.earth.tr" tvg-name="BBC Earth" tvg-logo="" group-title="TR: Belgesel",BBC Earth
+http://tvs.gggdns.com:34500/hkno123/23071996/133
+#EXTINF:-1 tvg-id="bein.gurme.tr" tvg-name="Bein Gurme" tvg-logo="" group-title="TR: Belgesel",Bein Gurme
+http://tvs.gggdns.com:34500/hkno123/23071996/225
+#EXTINF:-1 tvg-id="bein.iz.tr" tvg-name="Bein IZ" tvg-logo="" group-title="TR: Belgesel",Bein IZ
+http://tvs.gggdns.com:34500/hkno123/23071996/135
+#EXTINF:-1 tvg-id="" tvg-name="Chasse Peache" tvg-logo="" group-title="TR: Belgesel",Chasse Peache
+http://tvs.gggdns.com:34500/hkno123/23071996/258
+#EXTINF:-1 tvg-id="da.vinci.learning.tr" tvg-name="DaVinci Learning" tvg-logo="" group-title="TR: Belgesel",DaVinci Learning
+http://tvs.gggdns.com:34500/hkno123/23071996/160
+#EXTINF:-1 tvg-id="discovery.tr" tvg-name="Discovery Channel" tvg-logo="" group-title="TR: Belgesel",Discovery Channel
+http://tvs.gggdns.com:34500/hkno123/23071996/92
+#EXTINF:-1 tvg-id="discovery.science.tr" tvg-name="Discovery Science" tvg-logo="" group-title="TR: Belgesel",Discovery Science
+http://tvs.gggdns.com:34500/hkno123/23071996/99
+#EXTINF:-1 tvg-id="discoveryshowcase.tr" tvg-name="Discovery Showcase" tvg-logo="" group-title="TR: Belgesel",Discovery Showcase
+http://tvs.gggdns.com:34500/hkno123/23071996/138
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="Discover ID" tvg-logo="" group-title="TR: Belgesel",Discover ID
+http://tvs.gggdns.com:34500/hkno123/23071996/131
+#EXTINF:-1 tvg-id="" tvg-name="DTX" tvg-logo="" group-title="TR: Belgesel",DTX
+http://tvs.gggdns.com:34500/hkno123/23071996/244
+#EXTINF:-1 tvg-id="history.tr" tvg-name="History Channel" tvg-logo="" group-title="TR: Belgesel",History Channel
+http://tvs.gggdns.com:34500/hkno123/23071996/134
+#EXTINF:-1 tvg-id="love.nature.tr" tvg-name="Love Nature" tvg-logo="" group-title="TR: Belgesel",Love Nature
+http://tvs.gggdns.com:34500/hkno123/23071996/243
+#EXTINF:-1 tvg-id="nat.geo.wild.tr" tvg-name="Nat Geo Wild" tvg-logo="" group-title="TR: Belgesel",Nat Geo Wild
+http://tvs.gggdns.com:34500/hkno123/23071996/38
+#EXTINF:-1 tvg-id="national.geographic.tr" tvg-name="National Geographic" tvg-logo="" group-title="TR: Belgesel",National Geographic
+http://tvs.gggdns.com:34500/hkno123/23071996/16
+#EXTINF:-1 tvg-id="viasat.history.tr" tvg-name="Viasat History" tvg-logo="" group-title="TR: Belgesel",Viasat History
+http://tvs.gggdns.com:34500/hkno123/23071996/139
+#EXTINF:-1 tvg-id="" tvg-name="Science Vie" tvg-logo="" group-title="TR: Belgesel",Science Vie
+http://tvs.gggdns.com:34500/hkno123/23071996/257
+#EXTINF:-1 tvg-id="" tvg-name="Animix 1" tvg-logo="" group-title="TR: Çocuk",Animix 1
+http://tvs.gggdns.com:34500/hkno123/23071996/260
+#EXTINF:-1 tvg-id="" tvg-name="Animix 2" tvg-logo="" group-title="TR: Çocuk",Animix 2
+http://tvs.gggdns.com:34500/hkno123/23071996/261
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang TV" tvg-logo="" group-title="TR: Çocuk",Boomerang TV
+http://tvs.gggdns.com:34500/hkno123/23071996/2695
+#EXTINF:-1 tvg-id="" tvg-name="Boss Disney" tvg-logo="" group-title="TR: Çocuk",Boss Disney
+http://tvs.gggdns.com:34500/hkno123/23071996/245
+#EXTINF:-1 tvg-id="cartoon.network.tr" tvg-name="Cartoon Network" tvg-logo="" group-title="TR: Çocuk",Cartoon Network
+http://tvs.gggdns.com:34500/hkno123/23071996/166
+#EXTINF:-1 tvg-id="" tvg-name="Cinevision JR" tvg-logo="" group-title="TR: Çocuk",Cinevision JR
+http://tvs.gggdns.com:34500/hkno123/23071996/2560
+#EXTINF:-1 tvg-id="disney.junior.tr" tvg-name="Disney Jr" tvg-logo="" group-title="TR: Çocuk",Disney Jr
+http://tvs.gggdns.com:34500/hkno123/23071996/164
+#EXTINF:-1 tvg-id="disney.tr" tvg-name="Disney Channel" tvg-logo="" group-title="TR: Çocuk",Disney Channel
+http://tvs.gggdns.com:34500/hkno123/23071996/165
+#EXTINF:-1 tvg-id="disney.xd.tr" tvg-name="Disney xD" tvg-logo="" group-title="TR: Çocuk",Disney xD
+http://tvs.gggdns.com:34500/hkno123/23071996/259
+#EXTINF:-1 tvg-id="" tvg-name="Filmax Animasyon" tvg-logo="" group-title="TR: Çocuk",Filmax Animasyon
+http://tvs.gggdns.com:34500/hkno123/23071996/2522
+#EXTINF:-1 tvg-id="" tvg-name="NextBox Animasyon" tvg-logo="" group-title="TR: Çocuk",NextBox Animasyon
+http://tvs.gggdns.com:34500/hkno123/23071996/2513
+#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-name="Nickelodeon" tvg-logo="" group-title="TR: Çocuk",Nickelodeon
+http://tvs.gggdns.com:34500/hkno123/23071996/231
+#EXTINF:-1 tvg-id="" tvg-name="SineMax Animasyon" tvg-logo="" group-title="TR: Çocuk",SineMax Animasyon
+http://tvs.gggdns.com:34500/hkno123/23071996/158
+#EXTINF:-1 tvg-id="" tvg-name="Star Animasyon 2" tvg-logo="" group-title="TR: Çocuk",Star Animasyon 2
+http://tvs.gggdns.com:34500/hkno123/23071996/2580
+#EXTINF:-1 tvg-id="cocuk.smart.tr" tvg-name="Smart Çocuk" tvg-logo="" group-title="TR: Çocuk",Smart Çocuk
+http://tvs.gggdns.com:34500/hkno123/23071996/163
+#EXTINF:-1 tvg-id="" tvg-name="Star Animasyon" tvg-logo="" group-title="TR: Çocuk",Star Animasyon
+http://tvs.gggdns.com:34500/hkno123/23071996/159
+#EXTINF:-1 tvg-id="" tvg-name="Kukuli TV" tvg-logo="" group-title="TR: Çocuk",Kukuli TV
+http://tvs.gggdns.com:34500/hkno123/23071996/183
+#EXTINF:-1 tvg-id="" tvg-name="Niloya Tv" tvg-logo="" group-title="TR: Çocuk",Niloya Tv
+http://tvs.gggdns.com:34500/hkno123/23071996/184
+#EXTINF:-1 tvg-id="" tvg-name="Tom ve Jerry 7/24" tvg-logo="" group-title="TR: Çocuk",Tom ve Jerry 7/24
+http://tvs.gggdns.com:34500/hkno123/23071996/249
+#EXTINF:-1 tvg-id="" tvg-name="Şirinler 7/24" tvg-logo="" group-title="TR: Çocuk",Şirinler 7/24
+http://tvs.gggdns.com:34500/hkno123/23071996/250
+#EXTINF:-1 tvg-id="" tvg-name="Afyon TÜRK" tvg-logo="" group-title="TR: Ulusal",Afyon TÜRK
+http://tvs.gggdns.com:34500/hkno123/23071996/2692
+#EXTINF:-1 tvg-id="fb.tr" tvg-name="FB TV" tvg-logo="" group-title="TR: Ulusal",FB TV
+http://tvs.gggdns.com:34500/hkno123/23071996/210
+#EXTINF:-1 tvg-id="gs.tr" tvg-name="GS TV" tvg-logo="" group-title="TR: Ulusal",GS TV
+http://tvs.gggdns.com:34500/hkno123/23071996/209
+#EXTINF:-1 tvg-id="tjk.tr" tvg-name="TJK TV" tvg-logo="" group-title="TR: Ulusal",TJK TV
+http://tvs.gggdns.com:34500/hkno123/23071996/211
+#EXTINF:-1 tvg-id="trt.eba.ilkokul.tr" tvg-name="Eba TV İlkokul" tvg-logo="" group-title="TR: Ulusal",Eba TV İlkokul
+http://tvs.gggdns.com:34500/hkno123/23071996/1324
+#EXTINF:-1 tvg-id="trt.eba.ortaokul.tr" tvg-name="Eba Tv Ortaokul" tvg-logo="" group-title="TR: Ulusal",Eba Tv Ortaokul
+http://tvs.gggdns.com:34500/hkno123/23071996/1325
+#EXTINF:-1 tvg-id="trt.eba.lise.tr" tvg-name="Eba Tv Lise" tvg-logo="" group-title="TR: Ulusal",Eba Tv Lise
+http://tvs.gggdns.com:34500/hkno123/23071996/1326
 #EXTINF:-1 tvg-id="" tvg-name="Duyuru Kanalı" tvg-logo="" group-title="TR: Sinema",Duyuru Kanalı
 http://tvs.gggdns.com:34500/hkno123/23071996/227
 #EXTINF:-1 tvg-id="bein.movies.action.tr" tvg-name="Bein Movies Action" tvg-logo="" group-title="TR: Sinema",Bein Movies Action
@@ -343,152 +494,9 @@ http://tvs.gggdns.com:34500/hkno123/23071996/2594
 http://tvs.gggdns.com:34500/hkno123/23071996/2595
 #EXTINF:-1 tvg-id="" tvg-name="Vizioon Premier 2" tvg-logo="" group-title="TR: Sinema",Vizioon Premier 2
 http://tvs.gggdns.com:34500/hkno123/23071996/2596
-#EXTINF:-1 tvg-id="trt.1.tr" tvg-name="TRT 1" tvg-logo="" group-title="TR: Ulusal",TRT 1
-http://tvs.gggdns.com:34500/hkno123/23071996/205
-#EXTINF:-1 tvg-id="trt.2.tr" tvg-name="TRT 2" tvg-logo="" group-title="TR: Ulusal",TRT 2
-http://tvs.gggdns.com:34500/hkno123/23071996/1323
-#EXTINF:-1 tvg-id="trt.4k.tr" tvg-name="TRT 4K" tvg-logo="" group-title="TR: Ulusal",TRT 4K
-http://tvs.gggdns.com:34500/hkno123/23071996/206
-#EXTINF:-1 tvg-id="fox.tr" tvg-name="Fox Tv HD" tvg-logo="" group-title="TR: Ulusal",Fox Tv HD
-http://tvs.gggdns.com:34500/hkno123/23071996/114
-#EXTINF:-1 tvg-id="show.tr" tvg-name="Show Tv HD" tvg-logo="" group-title="TR: Ulusal",Show Tv HD
-http://tvs.gggdns.com:34500/hkno123/23071996/113
-#EXTINF:-1 tvg-id="kanal.d.tr" tvg-name="Kanal D HD" tvg-logo="" group-title="TR: Ulusal",Kanal D HD
-http://tvs.gggdns.com:34500/hkno123/23071996/102
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="" group-title="TR: Ulusal",ATV HD
-http://tvs.gggdns.com:34500/hkno123/23071996/91
-#EXTINF:-1 tvg-id="star.tr" tvg-name="Star Tv HD" tvg-logo="" group-title="TR: Ulusal",Star Tv HD
-http://tvs.gggdns.com:34500/hkno123/23071996/86
-#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve 2" tvg-logo="" group-title="TR: Ulusal",Teve 2
-http://tvs.gggdns.com:34500/hkno123/23071996/104
-#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8" tvg-logo="" group-title="TR: Ulusal",TV 8
-http://tvs.gggdns.com:34500/hkno123/23071996/107
-#EXTINF:-1 tvg-id="tv.8.5.tr" tvg-name="TV 8.5" tvg-logo="" group-title="TR: Ulusal",TV 8.5
-http://tvs.gggdns.com:34500/hkno123/23071996/162
-#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC" tvg-logo="" group-title="TR: Ulusal",TLC
-http://tvs.gggdns.com:34500/hkno123/23071996/130
-#EXTINF:-1 tvg-id="dmax.tr" tvg-name="Dmax" tvg-logo="" group-title="TR: Ulusal",Dmax
-http://tvs.gggdns.com:34500/hkno123/23071996/228
-#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="" group-title="TR: Ulusal",A2
-http://tvs.gggdns.com:34500/hkno123/23071996/1320
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="" group-title="TR: Ulusal",Kanal 7
-http://tvs.gggdns.com:34500/hkno123/23071996/2694
-#EXTINF:-1 tvg-id="beyaz.tr" tvg-name="Beyaz Tv" tvg-logo="" group-title="TR: Ulusal",Beyaz Tv
-http://tvs.gggdns.com:34500/hkno123/23071996/252
-#EXTINF:-1 tvg-id="" tvg-name="Afyon TÜRK" tvg-logo="" group-title="TR: Ulusal",Afyon TÜRK
-http://tvs.gggdns.com:34500/hkno123/23071996/2692
-#EXTINF:-1 tvg-id="fb.tr" tvg-name="FB TV" tvg-logo="" group-title="TR: Ulusal",FB TV
-http://tvs.gggdns.com:34500/hkno123/23071996/210
-#EXTINF:-1 tvg-id="gs.tr" tvg-name="GS TV" tvg-logo="" group-title="TR: Ulusal",GS TV
-http://tvs.gggdns.com:34500/hkno123/23071996/209
-#EXTINF:-1 tvg-id="tjk.tr" tvg-name="TJK TV" tvg-logo="" group-title="TR: Ulusal",TJK TV
-http://tvs.gggdns.com:34500/hkno123/23071996/211
-#EXTINF:-1 tvg-id="halk.tr" tvg-name="Halk TV" tvg-logo="" group-title="TR: Ulusal",Halk TV
-http://tvs.gggdns.com:34500/hkno123/23071996/1317
-#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="TR: Ulusal",TRT Haber
-http://tvs.gggdns.com:34500/hkno123/23071996/2693
-#EXTINF:-1 tvg-id="tele.1.tr" tvg-name="Tele 1" tvg-logo="" group-title="TR: Ulusal",Tele 1
-http://tvs.gggdns.com:34500/hkno123/23071996/1318
-#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT" tvg-logo="" group-title="TR: Ulusal",KRT
-http://tvs.gggdns.com:34500/hkno123/23071996/1319
-#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV" tvg-logo="" group-title="TR: Ulusal",NTV
-http://tvs.gggdns.com:34500/hkno123/23071996/129
-#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HaberTürk" tvg-logo="" group-title="TR: Ulusal",HaberTürk
-http://tvs.gggdns.com:34500/hkno123/23071996/127
-#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-name="Cnn Türk" tvg-logo="" group-title="TR: Ulusal",Cnn Türk
-http://tvs.gggdns.com:34500/hkno123/23071996/128
-#EXTINF:-1 tvg-id="bloomberg.ht.tr" tvg-name="Bloomberg HT" tvg-logo="" group-title="TR: Ulusal",Bloomberg HT
-http://tvs.gggdns.com:34500/hkno123/23071996/248
-#EXTINF:-1 tvg-id="a.haber.tr" tvg-name="A Haber" tvg-logo="" group-title="TR: Ulusal",A Haber
-http://tvs.gggdns.com:34500/hkno123/23071996/1321
-#EXTINF:-1 tvg-id="24.tr" tvg-name="24" tvg-logo="" group-title="TR: Ulusal",24
-http://tvs.gggdns.com:34500/hkno123/23071996/1322
-#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="" group-title="TR: Ulusal",360
-http://tvs.gggdns.com:34500/hkno123/23071996/251
-#EXTINF:-1 tvg-id="trt.eba.ilkokul.tr" tvg-name="Eba TV İlkokul" tvg-logo="" group-title="TR: Ulusal",Eba TV İlkokul
-http://tvs.gggdns.com:34500/hkno123/23071996/1324
-#EXTINF:-1 tvg-id="trt.eba.ortaokul.tr" tvg-name="Eba Tv Ortaokul" tvg-logo="" group-title="TR: Ulusal",Eba Tv Ortaokul
-http://tvs.gggdns.com:34500/hkno123/23071996/1325
-#EXTINF:-1 tvg-id="trt.eba.lise.tr" tvg-name="Eba Tv Lise" tvg-logo="" group-title="TR: Ulusal",Eba Tv Lise
-http://tvs.gggdns.com:34500/hkno123/23071996/1326
-#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 Kitchen" tvg-logo="" group-title="TR: Belgesel",24 Kitchen
-http://tvs.gggdns.com:34500/hkno123/23071996/146
-#EXTINF:-1 tvg-id="animal.planet.tr" tvg-name="Animal Planet" tvg-logo="" group-title="TR: Belgesel",Animal Planet
-http://tvs.gggdns.com:34500/hkno123/23071996/14
-#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="" group-title="TR: Belgesel",Animaux
-http://tvs.gggdns.com:34500/hkno123/23071996/161
-#EXTINF:-1 tvg-id="bbc.earth.tr" tvg-name="BBC Earth" tvg-logo="" group-title="TR: Belgesel",BBC Earth
-http://tvs.gggdns.com:34500/hkno123/23071996/133
-#EXTINF:-1 tvg-id="bein.gurme.tr" tvg-name="Bein Gurme" tvg-logo="" group-title="TR: Belgesel",Bein Gurme
-http://tvs.gggdns.com:34500/hkno123/23071996/225
-#EXTINF:-1 tvg-id="bein.iz.tr" tvg-name="Bein IZ" tvg-logo="" group-title="TR: Belgesel",Bein IZ
-http://tvs.gggdns.com:34500/hkno123/23071996/135
-#EXTINF:-1 tvg-id="" tvg-name="Chasse Peache" tvg-logo="" group-title="TR: Belgesel",Chasse Peache
-http://tvs.gggdns.com:34500/hkno123/23071996/258
-#EXTINF:-1 tvg-id="da.vinci.learning.tr" tvg-name="DaVinci Learning" tvg-logo="" group-title="TR: Belgesel",DaVinci Learning
-http://tvs.gggdns.com:34500/hkno123/23071996/160
-#EXTINF:-1 tvg-id="discovery.tr" tvg-name="Discovery Channel" tvg-logo="" group-title="TR: Belgesel",Discovery Channel
-http://tvs.gggdns.com:34500/hkno123/23071996/92
-#EXTINF:-1 tvg-id="discovery.science.tr" tvg-name="Discovery Science" tvg-logo="" group-title="TR: Belgesel",Discovery Science
-http://tvs.gggdns.com:34500/hkno123/23071996/99
-#EXTINF:-1 tvg-id="discoveryshowcase.tr" tvg-name="Discovery Showcase" tvg-logo="" group-title="TR: Belgesel",Discovery Showcase
-http://tvs.gggdns.com:34500/hkno123/23071996/138
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="Discover ID" tvg-logo="" group-title="TR: Belgesel",Discover ID
-http://tvs.gggdns.com:34500/hkno123/23071996/131
-#EXTINF:-1 tvg-id="" tvg-name="DTX" tvg-logo="" group-title="TR: Belgesel",DTX
-http://tvs.gggdns.com:34500/hkno123/23071996/244
-#EXTINF:-1 tvg-id="history.tr" tvg-name="History Channel" tvg-logo="" group-title="TR: Belgesel",History Channel
-http://tvs.gggdns.com:34500/hkno123/23071996/134
-#EXTINF:-1 tvg-id="love.nature.tr" tvg-name="Love Nature" tvg-logo="" group-title="TR: Belgesel",Love Nature
-http://tvs.gggdns.com:34500/hkno123/23071996/243
-#EXTINF:-1 tvg-id="nat.geo.wild.tr" tvg-name="Nat Geo Wild" tvg-logo="" group-title="TR: Belgesel",Nat Geo Wild
-http://tvs.gggdns.com:34500/hkno123/23071996/38
-#EXTINF:-1 tvg-id="national.geographic.tr" tvg-name="National Geographic" tvg-logo="" group-title="TR: Belgesel",National Geographic
-http://tvs.gggdns.com:34500/hkno123/23071996/16
-#EXTINF:-1 tvg-id="viasat.history.tr" tvg-name="Viasat History" tvg-logo="" group-title="TR: Belgesel",Viasat History
-http://tvs.gggdns.com:34500/hkno123/23071996/139
-#EXTINF:-1 tvg-id="" tvg-name="Science Vie" tvg-logo="" group-title="TR: Belgesel",Science Vie
-http://tvs.gggdns.com:34500/hkno123/23071996/257
-#EXTINF:-1 tvg-id="" tvg-name="Animix 1" tvg-logo="" group-title="TR: Çocuk",Animix 1
-http://tvs.gggdns.com:34500/hkno123/23071996/260
-#EXTINF:-1 tvg-id="" tvg-name="Animix 2" tvg-logo="" group-title="TR: Çocuk",Animix 2
-http://tvs.gggdns.com:34500/hkno123/23071996/261
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang TV" tvg-logo="" group-title="TR: Çocuk",Boomerang TV
-http://tvs.gggdns.com:34500/hkno123/23071996/2695
-#EXTINF:-1 tvg-id="" tvg-name="Boss Disney" tvg-logo="" group-title="TR: Çocuk",Boss Disney
-http://tvs.gggdns.com:34500/hkno123/23071996/245
-#EXTINF:-1 tvg-id="cartoon.network.tr" tvg-name="Cartoon Network" tvg-logo="" group-title="TR: Çocuk",Cartoon Network
-http://tvs.gggdns.com:34500/hkno123/23071996/166
-#EXTINF:-1 tvg-id="" tvg-name="Cinevision JR" tvg-logo="" group-title="TR: Çocuk",Cinevision JR
-http://tvs.gggdns.com:34500/hkno123/23071996/2560
-#EXTINF:-1 tvg-id="disney.junior.tr" tvg-name="Disney Jr" tvg-logo="" group-title="TR: Çocuk",Disney Jr
-http://tvs.gggdns.com:34500/hkno123/23071996/164
-#EXTINF:-1 tvg-id="disney.tr" tvg-name="Disney Channel" tvg-logo="" group-title="TR: Çocuk",Disney Channel
-http://tvs.gggdns.com:34500/hkno123/23071996/165
-#EXTINF:-1 tvg-id="disney.xd.tr" tvg-name="Disney xD" tvg-logo="" group-title="TR: Çocuk",Disney xD
-http://tvs.gggdns.com:34500/hkno123/23071996/259
-#EXTINF:-1 tvg-id="" tvg-name="Filmax Animasyon" tvg-logo="" group-title="TR: Çocuk",Filmax Animasyon
-http://tvs.gggdns.com:34500/hkno123/23071996/2522
-#EXTINF:-1 tvg-id="" tvg-name="NextBox Animasyon" tvg-logo="" group-title="TR: Çocuk",NextBox Animasyon
-http://tvs.gggdns.com:34500/hkno123/23071996/2513
-#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-name="Nickelodeon" tvg-logo="" group-title="TR: Çocuk",Nickelodeon
-http://tvs.gggdns.com:34500/hkno123/23071996/231
-#EXTINF:-1 tvg-id="" tvg-name="SineMax Animasyon" tvg-logo="" group-title="TR: Çocuk",SineMax Animasyon
-http://tvs.gggdns.com:34500/hkno123/23071996/158
-#EXTINF:-1 tvg-id="" tvg-name="Star Animasyon 2" tvg-logo="" group-title="TR: Çocuk",Star Animasyon 2
-http://tvs.gggdns.com:34500/hkno123/23071996/2580
-#EXTINF:-1 tvg-id="cocuk.smart.tr" tvg-name="Smart Çocuk" tvg-logo="" group-title="TR: Çocuk",Smart Çocuk
-http://tvs.gggdns.com:34500/hkno123/23071996/163
-#EXTINF:-1 tvg-id="" tvg-name="Star Animasyon" tvg-logo="" group-title="TR: Çocuk",Star Animasyon
-http://tvs.gggdns.com:34500/hkno123/23071996/159
-#EXTINF:-1 tvg-id="" tvg-name="Kukuli TV" tvg-logo="" group-title="TR: Çocuk",Kukuli TV
-http://tvs.gggdns.com:34500/hkno123/23071996/183
-#EXTINF:-1 tvg-id="" tvg-name="Niloya Tv" tvg-logo="" group-title="TR: Çocuk",Niloya Tv
-http://tvs.gggdns.com:34500/hkno123/23071996/184
-#EXTINF:-1 tvg-id="" tvg-name="Tom ve Jerry 7/24" tvg-logo="" group-title="TR: Çocuk",Tom ve Jerry 7/24
-http://tvs.gggdns.com:34500/hkno123/23071996/249
-#EXTINF:-1 tvg-id="" tvg-name="Şirinler 7/24" tvg-logo="" group-title="TR: Çocuk",Şirinler 7/24
-http://tvs.gggdns.com:34500/hkno123/23071996/250
+
+
+
 #EXTINF:-1 tvg-id="dream.tr" tvg-name="Dream TV" tvg-logo="" group-title="TR: Müzik-Eğlence",Dream TV
 http://tvs.gggdns.com:34500/hkno123/23071996/218
 #EXTINF:-1 tvg-id="dream.turk.tr" tvg-name="Dream Türk TV" tvg-logo="" group-title="TR: Müzik-Eğlence",Dream Türk TV
