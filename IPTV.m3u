@@ -7,8 +7,7 @@ https://itasli.github.io/IPTVTR/logo.mp4
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png" group-title="",A TV
-http://85.132.53.55/turk/atv_turk_sd/playlist.m3u8
-
+http://tvs.gggdns.com:34500/hkno123/23071996/91
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VCMN5Cr/show.png" group-title="",Show TV
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
 
